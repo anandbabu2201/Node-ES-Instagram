@@ -22,4 +22,4 @@ app.get('/',function(req,res){
    
 });
 app.listen(8080);
-console.log("app Started look at localhost:8080");
+console.log("app is Started look at localhost:8080");
